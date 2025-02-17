@@ -11,6 +11,8 @@ Eine Sammlung von Gedanken und Erfahrungen.
   Ein notwendiges Übel oder vermeidbare Last?
 
 ## 👥 Führung & Management
+- [Führen ohne Macht](fuehren_ohne_macht_wie_entwickler_auch_ohne_formale_autoritaet_einfluss_nehmen_koennen.md)
+  Wie Entwickler auch ohne formale Autorität Einfluss nehmen können
 - ["Zu langsam"? Warum Teams nicht liefern](zu_langsam_warum_teams_nicht_liefern_und_was_wirklich_dahintersteckt.md)  
   Eine Analyse der wahren Gründe für Verlangsamung in Entwicklungsteams
 - [Von Kontrolle zu Empowerment](von_kontrolle_zu_empowerment_wie_modernes_management_teams_beschleunigt.md)  
