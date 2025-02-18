@@ -36,5 +36,8 @@ Eine Sammlung von Gedanken und Erfahrungen.
 - [Die Kunst der Gehaltsverhandlung](die_kunst_der_gehaltsverhandlung_ein_strategischer_guide_fuer_maximalen_erfolg.md)  
   Ein strategischer Guide für maximalen Erfolg
 
+## 📣 Kommunikation
+- [Wenn das Medium die Botschaft zerstört: Wie ein Meeting zwischen Management und Team zur Kommunikationskatastrophe wurde](wenn_das_medium_die_botschaft_zerstoert_wie_ein_meeting_zwischen_management_und_team_zur_kommunikationskatastrophe_wurde.md) - Eine Analyse einer gescheiterten Teamkommunikation anhand von McLuhans Theorie und Watzlawicks Axiomen
+
 ---
 💡 Fehler gefunden oder Verbesserungsvorschläge? [Issue erstellen](https://github.com/TheCodeOne/posts/issues/new?template=Blank+issue)!
