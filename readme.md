@@ -11,6 +11,8 @@ Eine Sammlung von Gedanken und Erfahrungen.
   Ein notwendiges Übel oder vermeidbare Last?
 
 ## 👥 Führung & Management
+- [Von Vision zu Kurzsicht](von_vision_zu_kurzsicht_wenn_management_entscheidungen_teams_zerstoeren.md)  
+  Wenn Management-Entscheidungen Teams zerstören
 - [Führen ohne Macht](fuehren_ohne_macht_wie_entwickler_auch_ohne_formale_autoritaet_einfluss_nehmen_koennen.md)
   Wie Entwickler auch ohne formale Autorität Einfluss nehmen können
 - ["Zu langsam"? Warum Teams nicht liefern](zu_langsam_warum_teams_nicht_liefern_und_was_wirklich_dahintersteckt.md)  
