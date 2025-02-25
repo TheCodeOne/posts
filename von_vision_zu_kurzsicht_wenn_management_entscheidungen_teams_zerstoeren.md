@@ -136,4 +136,8 @@ Diese Situation ist mehr als ein einzelner Managementfehler - sie ist ein Weckru
 
 Die aktuelle Situation in unserem Unternehmen bestätigt auf schmerzliche Weise Sineks zentrale These: Führung, die Menschen als austauschbare Ressourcen behandelt und kurzfristige Gewinne über langfristige Gesundheit stellt, zerstört genau die Grundlagen, die sie für ihren Erfolg braucht.
 
-Die Ironie liegt darin, dass selbst das kurzfristige Ziel durch diese Herangehensweise gefährdet ist. Wie Sinek warnt: "The true cost of leadership privilege comes at the expense of self-interest." In unserem Fall hat das Management diese fundamentale Lektion ignoriert - mit Konsequenzen, die weit über die nächsten drei Jahre hinausreichen werden. 
+Die Ironie liegt darin, dass selbst das kurzfristige Ziel durch diese Herangehensweise gefährdet ist. Wie Sinek warnt:
+
+> "The true cost of leadership privilege comes at the expense of self-interest."
+
+In unserem Fall hat das Management diese fundamentale Lektion ignoriert - mit Konsequenzen, die weit über die nächsten drei Jahre hinausreichen werden. 
